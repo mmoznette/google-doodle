@@ -1,10 +1,10 @@
 console.log('OK');
 
-gsap.from( '#heart1', {
+gsap.from( 'heart', {
  
     x: -600,
-    fill: 'orange',
+    fill: 'red',
     opacity: 0,
-    duration: 3
+    duration: 4
     
   });
