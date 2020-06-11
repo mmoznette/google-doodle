@@ -1,4 +1,4 @@
-# Coffee Google Doodle
+# Loving Music Google Doodle
 My google doodle has the theme of loving music. With this theme, I am using icons or imagery that represents love and also represents music. I like music and movies, so I went with music. I feel that I can do a variety of things with this theme.
 
 ## Collage
